@@ -1,0 +1,62 @@
+[
+  {
+    "firstName": "James",
+    "lastName": "John",
+    "city": "London",
+    "country": "Britain"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Kelly",
+    "city": "New York",
+    "country": "United State"
+  },
+  {
+    "firstName": "Joy",
+    "lastName": "Reid",
+    "city": "Glasgow",
+    "country": "britain"
+  },
+  {
+    "firstName": "Mathew",
+    "lastName": "Luke",
+    "city": "Coventry",
+    "country": "Bitain"
+  },
+  {
+    "firstName": "Kelly",
+    "lastName": "Smith",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "firstName": "Francis",
+    "lastName": "Bacon",
+    "city": "Bacon City",
+    "country": "Britain"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Jonas",
+    "city": "Ottawa",
+    "country": "Canada"
+  },
+  {
+    "firstName": "Hompadic",
+    "lastName": "Padic",
+    "city": "Rome",
+    "country": "Italy"
+  },
+  {
+    "firstName": "Lukas",
+    "lastName": "Hendrich",
+    "city": "Sttutgard",
+    "country": "Germany"
+  },
+  {
+    "firstName": "Johanas",
+    "lastName": "Keplar",
+    "city": "Warsaw",
+    "country": "Poland"
+  }
+]
